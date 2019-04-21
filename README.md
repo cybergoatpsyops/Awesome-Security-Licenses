@@ -1,6 +1,6 @@
 # Awesome Security Licenses
 
-A curated list of awesome security tool's licenses. Inpired by awesome list on GitHub and OpenSOC.io
+A curated list of awesome security tool's licenses. Inspired by the awesome lists on GitHub and the [OpenSOC.io](https://opensoc.io) family.
 
 
 ## Security Tools and their Respective Licenses
