@@ -1,1 +1,35 @@
-# Awesome-Security-Licenses
+# Awesome Security Licenses
+
+A curated list of awesome security tool's licenses. Inpired by awesome list on GitHub and OpenSOC.io
+
+
+## Security Tools and their Respective Licenses
+
+---
+
+* [Metasploit-Framework](https://github.com/rapid7/metasploit-framework/blob/master/LICENSE) - BSD-3-clause
+* [Wazuh](https://github.com/wazuh/wazuh/blob/master/LICENSE) -  GPL-2
+* [Osquery](https://github.com/facebook/osquery/blob/experimental/LICENSE) - Apache-2.0 or GPL-2
+* [Suricata](https://github.com/OISF/suricata/blob/master/LICENSE) - GPL-2
+* [Graylog](https://github.com/Graylog2/graylog2-server/blob/master/COPYING) - GPL-3
+* [Snort](https://github.com/snort3/snort3/blob/master/LICENSE) - GPL-2
+* [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/LICENSE) - Open-core model with Apache-2.0 and Proprietary Licenses
+* [Moloch](https://github.com/aol/moloch/blob/master/LICENSE) - Apache-2.0
+* [Ansible](https://github.com/ansible/ansible/blob/devel/COPYING) - GPL-3
+* [Kolide Fleet](https://github.com/kolide/fleet/blob/master/LICENSE) - MIT License
+* [OPNsense](https://github.com/opnsense/core/blob/master/LICENSE) - BSD-2
+* [pfSense](https://github.com/pfsense/pfsense/blob/master/LICENSE) - Apache-2.0
+* [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/license-terms) - Proprietary Software License Terms
+
+## License Breakdown
+
+
+* BSD-2 (BSD-Old) has extreme freedoms where you can pretty much do anything as long owner is not held liable damages. Must include copyright notices and licenses.
+* BSD-3 is the updated version (BSD-New) with the added cannot use trademark clause.
+* Aparche-2.0 is a premissive software license where you can do what you want with the software as long as you keep the copyright notice, include the licenses, notice and state any and all changes. Make sure you include a NOTICE file!
+* MIT License is a license where very lenient on restrictions. You can modify, redistribute, and sublicense as you see fit. Must include copyrights and licenses
+* GPL-2 is a "copyleft" license. You must include GPL-license. Make sure you track any and all changes, everything else goes.
+* GPL-3 adds a few clauses like the owner can use a patent claim and you MUST include install instructions
+* Sysinternals software is only licensed, not sold, all other rights are reserved to Sysinternals and Microsoft. You may NOT rent, lease or lend the software.
+* Open-Core Model state simply is how some vendors try to make money off open-source software. They claim "free open-source", but only on a limited set of the code IE. limited features. The "secret sauce" will be proprietary and you are expected to pay for those features. It does seem to work for some, think RedHat.
+
