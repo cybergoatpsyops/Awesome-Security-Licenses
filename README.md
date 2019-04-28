@@ -7,19 +7,24 @@ A curated list of awesome security tool's licenses. Inspired by the awesome list
 
 ---
 
-* [Metasploit-Framework](https://github.com/rapid7/metasploit-framework/blob/master/LICENSE) - BSD-3-clause
-* [Wazuh](https://github.com/wazuh/wazuh/blob/master/LICENSE) -  GPL-2
-* [Osquery](https://github.com/facebook/osquery/blob/experimental/LICENSE) - Apache-2.0 or GPL-2
-* [Suricata](https://github.com/OISF/suricata/blob/master/LICENSE) - GPL-2
-* [Graylog](https://github.com/Graylog2/graylog2-server/blob/master/COPYING) - GPL-3
-* [Snort](https://github.com/snort3/snort3/blob/master/LICENSE) - GPL-2
-* [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/LICENSE) - Open-core model with Apache-2.0 and Proprietary Licenses
-* [Moloch](https://github.com/aol/moloch/blob/master/LICENSE) - Apache-2.0
-* [Ansible](https://github.com/ansible/ansible/blob/devel/COPYING) - GPL-3
-* [Kolide Fleet](https://github.com/kolide/fleet/blob/master/LICENSE) - MIT License
-* [OPNsense](https://github.com/opnsense/core/blob/master/LICENSE) - BSD-2
-* [pfSense](https://github.com/pfsense/pfsense/blob/master/LICENSE) - Apache-2.0
-* [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/license-terms) - Proprietary Software License Terms
+| TOOL | LICENSE |
+| --- | --- |
+| [Metasploit-Framework](https://github.com/rapid7/metasploit-framework/blob/master/LICENSE) | BSD-3-clause |
+| [Wazuh](https://github.com/wazuh/wazuh/blob/master/LICENSE) | GPL-2 |
+| [Osquery](https://github.com/facebook/osquery/blob/experimental/LICENSE) | Apache-2.0 or GPL-2 |
+| [Suricata](https://github.com/OISF/suricata/blob/master/LICENSE) | GPL-2 |
+| [Graylog](https://github.com/Graylog2/graylog2-server/blob/master/COPYING) | GPL-3 |
+| [Snort](https://github.com/snort3/snort3/blob/master/LICENSE) | GPL-2 |
+| [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/LICENSE) | Open-core model, Apache-2.0 & Proprietary Licenses |
+| [Moloch](https://github.com/aol/moloch/blob/master/LICENSE) | Apache-2.0 |
+| [Ansible](https://github.com/ansible/ansible/blob/devel/COPYING) | GPL-3 |
+| [Kolide Fleet](https://github.com/kolide/fleet/blob/master/LICENSE) | MIT License |
+| [OPNsense](https://github.com/opnsense/core/blob/master/LICENSE) | BSD-2 |
+| [pfSense](https://github.com/pfsense/pfsense/blob/master/LICENSE) | Apache-2.0 |
+| [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/license-terms) | Proprietary Software License Terms |
+| [Kali Linux](https://www.gnu.org/licenses/gpl.html) | GPL-3 |
+| [WireShark](https://github.com/wireshark/wireshark/blob/master/COPYING) | GLP-3 |
+|
 
 ## License Breakdown
 
