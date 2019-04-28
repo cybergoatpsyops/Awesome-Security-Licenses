@@ -24,7 +24,7 @@ A curated list of awesome security tool's licenses. Inspired by the awesome list
 | [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/license-terms) | Proprietary Software License Terms |
 | [Kali Linux](https://www.gnu.org/licenses/gpl.html) | GPL-3 |
 | [WireShark](https://github.com/wireshark/wireshark/blob/master/COPYING) | GLP-3 |
-|
+
 
 ## License Breakdown
 
