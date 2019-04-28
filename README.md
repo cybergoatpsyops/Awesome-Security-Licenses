@@ -15,7 +15,7 @@ A curated list of awesome security tool's licenses. Inspired by the awesome list
 | [Suricata](https://github.com/OISF/suricata/blob/master/LICENSE) | GPL-2 |
 | [Graylog](https://github.com/Graylog2/graylog2-server/blob/master/COPYING) | GPL-3 |
 | [Snort](https://github.com/snort3/snort3/blob/master/LICENSE) | GPL-2 |
-| [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/LICENSE) | Open-core model, Apache-2.0 & Proprietary Licenses |
+| [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/LICENSE) | Open-core model, Apache-2.0 & Commercial Licenses |
 | [Moloch](https://github.com/aol/moloch/blob/master/LICENSE) | Apache-2.0 |
 | [Ansible](https://github.com/ansible/ansible/blob/devel/COPYING) | GPL-3 |
 | [Kolide Fleet](https://github.com/kolide/fleet/blob/master/LICENSE) | MIT License |
@@ -24,7 +24,11 @@ A curated list of awesome security tool's licenses. Inspired by the awesome list
 | [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/license-terms) | Proprietary Software License Terms |
 | [Kali Linux](https://www.gnu.org/licenses/gpl.html) | GPL-3 |
 | [WireShark](https://github.com/wireshark/wireshark/blob/master/COPYING) | GLP-3 |
-
+| [BeEF](https://github.com/beefproject/beef/blob/master/doc/COPYING) | GLP-2 |
+| [ClamAV](https://github.com/Cisco-Talos/clamav-faq/blob/master/README.md) | GLP-2 |
+| [OWASP ZAP](https://github.com/zaproxy/zaproxy/blob/develop/LICENSE) | Apache-2.0 |
+| [Volatility](https://github.com/volatilityfoundation/volatility/blob/master/LICENSE.txt) | GLP-2 |
+| [FTK Imager](https://accessdata.com/legal/terms/) | Commercial License |
 
 ## License Breakdown
 
